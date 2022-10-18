@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+html, body, #root{
+  background-color: #efefef;
+  height: 100%;
+}
+
+
+
+/********/
+
+ul{
+  margin: 20px 0;
+}
+
+ul li{
+  display: inline-block;
+  margin: 0 20px;
+  list-style-type: none;
+}
+
+ul li a{
+  color: #efefef;
+  text-decoration: none;
+  transition: 0.4s;
+}
+
+ul li a:hover{
+  color: #ffbb3f;
+}

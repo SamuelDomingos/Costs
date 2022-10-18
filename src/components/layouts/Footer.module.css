@@ -1,0 +1,21 @@
+.footer{
+    margin: 0 auto;
+    background-color: #222;
+    color: white;
+    padding: 2em;
+    text-align: center;
+}
+
+.footer li{
+    cursor: pointer;
+    font-size: 35px;
+    transition: 0.3s;
+}
+
+.footer p span{
+    color: #ffbb33;
+}
+
+.footer li:hover{
+    color: #ffbb33;
+}

@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "nome": "Tablet",
+      "budget": "11000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Samuel",
+          "cost": "1000",
+          "description": "construção de um tablet",
+          "id": "47ade49d-e902-4e91-b431-1ceb157221c5"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
